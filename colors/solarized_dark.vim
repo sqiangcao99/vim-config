@@ -306,9 +306,11 @@ elseif g:solarized_termcolors == 256
     let s:base03      = "234"
     let s:base02      = "235"
     let s:base01      = "239"
-    let s:base00      = "240"
+    "let s:base00      = "240" ori
+    let s:base00      = "244"
     let s:base0       = "244"
-    let s:base1       = "245"
+    "let s:base1       = "245"
+    let s:base1       = "254"
     let s:base2       = "187"
     let s:base3       = "230"
     let s:yellow      = "136"
